@@ -9,7 +9,7 @@ I am a passionate software developer with a strong focus on web development, ope
 <h2>🔧 Technologies & Tools</h2>
 Here are some of the languages, frameworks, and tools I work with:
 
-+ <h3>Frontend</h3>: React.js
++ <h3>Frontend:</h3> React.js
 
 
 
