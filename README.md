@@ -6,6 +6,8 @@ I am a passionate software developer with a strong focus on web development, ope
 + 🌍 I'm currently based in pakistan
 + 📫 How to reach me: usamashahidrandhawa1@gmail.com
 
+<h2>🔧 Technologies & Tools</h2>
+
 
 
 
