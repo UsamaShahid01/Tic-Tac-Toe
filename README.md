@@ -7,6 +7,9 @@ I am a passionate software developer with a strong focus on web development, ope
 + 📫 How to reach me: usamashahidrandhawa1@gmail.com
 
 <h2>🔧 Technologies & Tools</h2>
+Here are some of the languages, frameworks, and tools I work with:
+
+
 
 
 
