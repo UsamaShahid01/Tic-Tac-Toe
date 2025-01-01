@@ -14,6 +14,7 @@ Here are some of the languages, frameworks, and tools I work with:
 - **CSS Frameworks**: Tailwind CSS
 
 - 🔗 <h2>Connect with Me</h2>
+-https://www.linkedin.com/in/usama-shahid-randhawa/
 
 
 
